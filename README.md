@@ -4,6 +4,22 @@ A powerful AI-driven platform that converts **natural language (NL)** into **SQL
 
 ---
 
+## 📸 Screenshots
+
+| Chat View                         | AI Chat Flow                       | Report Generation                  |
+|----------------------------------|------------------------------------|------------------------------------|
+| ![](screenshots/chat-1.png)      | ![](screenshots/chat-2.png)        | ![](screenshots/generate-report.png) |
+
+| Home Page                         | Discover Datasets                  | Workspace                          |
+|----------------------------------|------------------------------------|------------------------------------|
+| ![](screenshots/home.png)        | ![](screenshots/discover.png)      | ![](screenshots/workspace.png)     |
+
+| User Profile                      | Normalized Tables - 1              | Normalized Tables - 2              |
+|----------------------------------|------------------------------------|------------------------------------|
+| ![](screenshots/profile.png)     | ![](screenshots/normalize-1.png)   | ![](screenshots/normalize-2.png)   |
+
+---
+
 ## 🚀 Features
 
 - 🗣️ **Natural Language to SQL Conversion**  
@@ -58,18 +74,3 @@ A powerful AI-driven platform that converts **natural language (NL)** into **SQL
 6. **Export (optional)** as PDF/PPT
 7. **Suggest follow-up questions**
 
----
-
-## 📸 Screenshots
-
-| Chat View                         | AI Chat Flow                       | Report Generation                  |
-|----------------------------------|------------------------------------|------------------------------------|
-| ![](screenshots/chat-1.png)      | ![](screenshots/chat-2.png)        | ![](screenshots/generate-report.png) |
-
-| Home Page                         | Discover Datasets                  | Workspace                          |
-|----------------------------------|------------------------------------|------------------------------------|
-| ![](screenshots/home.png)        | ![](screenshots/discover.png)      | ![](screenshots/workspace.png)     |
-
-| User Profile                      | Normalized Tables - 1              | Normalized Tables - 2              |
-|----------------------------------|------------------------------------|------------------------------------|
-| ![](screenshots/profile.png)     | ![](screenshots/normalize-1.png)   | ![](screenshots/normalize-2.png)   |
